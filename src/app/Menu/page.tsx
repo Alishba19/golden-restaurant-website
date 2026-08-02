@@ -5,7 +5,7 @@ const menuItems = [
   {
     id: 1,
     name: "Grilled Steak",
-    image: "/images/menu/grilled-Steak.jpg",
+    image: "/images/menu/grilled-steak.jpg",
     price: "$28",
     rating: "⭐ 4.9",
     description: "Juicy grilled beef steak served with vegetables and special sauce.",
